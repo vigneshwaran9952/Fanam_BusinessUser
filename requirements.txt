@@ -1,0 +1,26 @@
+streamlit
+python-dotenv
+pandas
+deep-translator
+yagmail
+langchain-core
+langchain-community
+langchain-google-genai
+scikit-learn
+bcrypt
+httpx
+beautifulsoup4
+serpapi
+google-genai
+faiss-cpu # or faiss-gpu
+sentence-transformers
+
+
+#streamlit
+requests
+langdetect
+
+
+numpy
+sounddevice
+faster-whisper
